@@ -1,0 +1,12 @@
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\bin\Debug\RGB Slider.exe.config
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\bin\Debug\RGB Slider.exe
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\bin\Debug\RGB Slider.pdb
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB Slider.csproj.AssemblyReference.cache
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB_Slider.Form1.resources
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB_Slider.Properties.Resources.resources
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB Slider.csproj.GenerateResource.cache
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB Slider.csproj.CoreCompileInputs.cache
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB Slider.csproj.CopyComplete
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB Slider.exe
+C:\Users\Mercy\Desktop\RGB Slider\RGB Slider\obj\Debug\RGB Slider.pdb
